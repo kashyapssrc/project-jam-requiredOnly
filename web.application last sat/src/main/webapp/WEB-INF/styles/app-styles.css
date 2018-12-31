@@ -1,0 +1,28 @@
+#lsp {
+  border: 5px;
+  width: 20%;
+  height: 100%;
+  float: left;
+  background-color: #EBEBE4;
+}
+
+#rsp {
+  border: 5px;
+  width: 70%;
+  height: 100%;
+  float: left;
+  background-color: #EBEBE4;;
+}
+
+#personTable {
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+table, th, td
+{
+    border: solid 1px #DDD;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+}
